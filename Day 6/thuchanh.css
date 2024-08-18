@@ -1,0 +1,68 @@
+.container { 
+    width: 600px;
+    height: 600px;
+    border-style: solid;
+    
+    position: relative;
+
+ 
+}
+
+.icon1 {
+    
+    
+    position: absolute;
+    right: 0px;
+    bottom: 50%;
+    
+    
+    
+    
+}
+
+.icon2 {
+    
+  
+    position: absolute;
+    right: 0%;
+    bottom: 40%; 
+    
+   
+}
+.icon3 {
+    
+  
+    position: absolute;
+    right: 0%;
+    bottom: 30%; 
+
+}
+.icon4 { 
+    
+    position: absolute;
+    right: 0%;
+    bottom: 20%; 
+
+}
+.icon5 { 
+    
+   
+     position: absolute;
+     right: 0%;
+     bottom: 10%; 
+} 
+.icon6 { 
+    
+     position: absolute;
+     right: 0%;
+     bottom: 0%
+} 
+
+p {
+    display: flex;
+    display: inline-block;
+}
+
+
+
+
